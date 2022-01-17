@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Ashin-Amanulla/counter-react/static/css/main.10aa0b4b.css",
-    "main.js": "/Ashin-Amanulla/counter-react/static/js/main.eff36a10.js",
-    "index.html": "/Ashin-Amanulla/counter-react/index.html",
-    "main.10aa0b4b.css.map": "/Ashin-Amanulla/counter-react/static/css/main.10aa0b4b.css.map",
-    "main.eff36a10.js.map": "/Ashin-Amanulla/counter-react/static/js/main.eff36a10.js.map"
+    "main.css": "./static/css/main.10aa0b4b.css",
+    "main.js": "./static/js/main.1df5abe9.js",
+    "index.html": "./index.html",
+    "main.10aa0b4b.css.map": "./static/css/main.10aa0b4b.css.map",
+    "main.1df5abe9.js.map": "./static/js/main.1df5abe9.js.map"
   },
   "entrypoints": [
     "static/css/main.10aa0b4b.css",
-    "static/js/main.eff36a10.js"
+    "static/js/main.1df5abe9.js"
   ]
 }
