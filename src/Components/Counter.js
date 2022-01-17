@@ -5,10 +5,6 @@ import {Wrapper, ButtonWrapper} from '../ui/Wrapper'
 
 
 
-
-
-
-
 const Counter = () => {
 
     var [counterValue, setCounterValue] = useState(0); //useState (Hooks) must be inside React function
@@ -28,11 +24,8 @@ const Counter = () => {
     return (
         <Wrapper>
             <h1 > {counterValue} </h1>
-            <ButtonWrapper
-                variant="outlined"
-                aria-label="outlined button group"
-                width="100px"
-            >
+            <ButtonWrapper >
+
                 <Button
                     variant="outlined"
                     onClick={IncrementCounter}

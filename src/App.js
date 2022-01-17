@@ -4,7 +4,6 @@ import { Container } from '@mui/material';
 
 function App() {
   return (
-    <div className="App">
       <Container maxWidth="sm">
 
       <Counter/>
@@ -12,7 +11,6 @@ function App() {
       </Container>
 
       
-    </div>
   );
 }
 

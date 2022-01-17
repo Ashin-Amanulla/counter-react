@@ -1,8 +1,6 @@
 
 import styled from 'styled-components';
 
-
-
 const Wrapper = styled.div`
   display:grid;
   justify-content:center;
@@ -24,6 +22,9 @@ const Wrapper = styled.div`
   }
 
   `
+
+//ButtonWrapper
+
 const ButtonWrapper = styled.div`
 
 display:flex;
@@ -35,4 +36,4 @@ justify-content:space-between;
 
 `
 
-export {Wrapper,ButtonWrapper};
+export { Wrapper, ButtonWrapper };
