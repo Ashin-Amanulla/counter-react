@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.10aa0b4b.css","mappings":"AAAA,EACE,QAAQ,CACR,SACF,CAEA,KACE,wBACF","sources":["index.css"],"sourcesContent":["*{\n  margin:0;\n  padding:0;\n}\n\nbody{\n  background-color: rgb(249, 252, 251);\n}"],"names":[],"sourceRoot":""}
